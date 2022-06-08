@@ -1,0 +1,45 @@
+td
+{
+    border: solid;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+}
+.imagem
+{
+   width: 200px;
+   height: 150px;
+}
+.primavera
+{
+    border-color: green;
+}
+.verao
+{
+    border-color: orange;
+}
+.outono
+{
+    border-color: brown;
+}
+.inverno
+{
+    border-color: blue;
+}
+.colunas
+{
+    text-align: center;
+}
+.red
+{
+    border-color: red;
+}
+.rotacao
+{
+ transform: rotate(-90deg);
+}
+table
+{
+    align: center;
+}
